@@ -4,3 +4,6 @@ Git & Github
 Bitbucket
 ClearCase
 Perforce
+working with the git branches
+Branches give you the freedom to independently work on different modules .
+Merge the modules when you finish developing them.
